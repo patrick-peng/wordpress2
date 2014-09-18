@@ -1,0 +1,47 @@
+/*
+File Name: style.css 
+Theme Name:  RT-Theme 17 
+Author: Tolga Can
+Version: 2.7
+Author URI: http://themeforest.net/user/stmcan
+Theme URI: http://themeforest.net/user/stmcan
+Description:  (Share mobantu.com) Theme designed by Tolga Can - <a href="http://themeforest.net/user/stmcan">stmcan</a>
+License: GNU General Public License
+License URI: /Licensing/gpl.txt
+	EDIT /css/style.css for the theme stlye
+*/
+
+#post-body #normal-sortables{display:none !important}
+.boxclass{float:left;margin:5px 5px}
+.product_case_lxc{
+	display: none ; 
+  width: 135px !important;
+  padding: 4px;
+  margin-top: 5px;
+}
+#quantity{width:145px}
+#size{width:145px}
+#pages{width:145px}
+#binding{width:145px}
+#printing_color{width:145px}
+#printing_color_1{width:145px}
+#printing_color_2{width:145px}
+#paper_stock_type{width:145px}
+#paper_stock_type_1{width:145px}
+#paper_stock_type_2{width:145px}
+#finishing{width:145px}
+#special_processing{width:145px}
+#dusk_jacket{width:145px}
+#folding_type{width:145px}
+#shapes{width:145px}
+#thickness{width:145px}
+#punch_hole{width:145px}
+#eletrionic_device{width:145px}
+#design{width:145px}
+#custom_shapes{width:145px}
+#strings{width:145px}
+#stock{width:145px}
+#pocket{width:145px}
+#container .rev_slider {
+width: 980px !important;
+}
